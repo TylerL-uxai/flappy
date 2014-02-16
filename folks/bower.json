@@ -2,9 +2,9 @@
   "name": "flappy",
   "version": "0.0.1",
   "authors": [
-    "shan zhou <hyspace@gmail.com>"
+    "Tyler Langan <Squ34k3rZ@gmail.com>"
   ],
-  "description": "flappy bird in html5",
+  "description": "Flappy Bird",
   "main": "index.html",
   "keywords": [
     "game",
