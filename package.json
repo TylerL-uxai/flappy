@@ -1,7 +1,7 @@
 {
-  "name": "flappy",
+  "name": "Happy Bird",
   "version": "0.0.1",
-  "description": "flappy bird in html5",
+  "description": "Best Flappy Bird",
   "devDependencies": {
     "gulp": "~3.5.2",
     "coffee-script": "~1.7.1",
@@ -10,6 +10,9 @@
     "gulp-connect": "~0.3.1",
     "gulp-uglify": "~0.2.1",
     "gulp-concat": "~2.1.7"
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
   },
   "scripts": {
     "start": "./node_modules/.bin/gulp --require coffee-script/register"
@@ -23,10 +26,10 @@
     "flappy",
     "bird"
   ],
-  "author": "shan zhou <hyspace@gmail.com>",
+  "author": "Tyler Langan Squ34k3rZ@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hyspace/flappy/issues"
   },
-  "homepage": "https://github.com/hyspace/flappy"
+  "homepage": "https://github.com/Squ34k3rZ/flappy"
 }

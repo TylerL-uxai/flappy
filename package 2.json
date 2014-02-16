@@ -1,0 +1,11 @@
+{
+  "name": "Side-Scrolling Cartoon",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "repository": "",
+  "author": "Tyler Langan Squ34k3rZ@gmail.com",
+  "dependencies": {
+
+  }
+}
